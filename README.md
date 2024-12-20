@@ -1,4 +1,4 @@
-# food_ingrediants
+# food_ingredients
 Food Ingredients Checker
 The Food Ingredients Checker is a C++ project designed to provide detailed information about various food items based on categories. Users can select a food category, choose a specific food item, and view its ingredients, along with the percentage composition and health status.
 
