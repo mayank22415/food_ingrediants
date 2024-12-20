@@ -1,0 +1,101 @@
+Ice_Creams
+Ice_Cream Item 1|Flour:42, Peanuts:37|Healthy
+Ice_Cream Item 2|Peanuts:40, Cheese:47|Healthy
+Ice_Cream Item 3|Flour:35, Cheese:45, Amla:13|Healthy
+Ice_Cream Item 4|Amla:22, Fish:47, Fruits:27, Rice:13|Healthy
+Ice_Cream Item 5|Hazelnuts:12, Oil:35, Milk:25, Rice:29|Unhealthy
+Ice_Cream Item 6|Fish:19, Garlic:31, Peanuts:48, Hazelnuts:21|Unhealthy
+Ice_Cream Item 7|Peanuts:31, Tomato Sauce:29, Hazelnuts:22|Unhealthy
+Ice_Cream Item 8|Pistachio:45, Amla:29, Cheese:17|Healthy
+Ice_Cream Item 9|Fish:26, Hazelnuts:17, Sugar:50, Oil:24|Healthy
+Ice_Cream Item 10|Cocoa:45, Vegetables:32|Healthy
+Ice_Cream Item 11|Vanilla Essence:50, Butter:26, Sugar:35, Carrot:42, Garlic:22|Unhealthy
+Ice_Cream Item 12|Hazelnuts:14, Oil:48, Spices:17, Vanilla Essence:19|Healthy
+Ice_Cream Item 13|Rice:12, Peanuts:25|Unhealthy
+Ice_Cream Item 14|Garlic:49, Spices:17, Oil:34|Healthy
+Ice_Cream Item 15|Fruits:20, Cheese:38, Amla:21, Carrot:28|Unhealthy
+Ice_Cream Item 16|Peanuts:11, Fish:35|Unhealthy
+Ice_Cream Item 17|Chicken:47, Milk:18|Unhealthy
+Ice_Cream Item 18|Milk:34, Pistachio:28|Healthy
+Ice_Cream Item 19|Salt:50, Sugar:43, Vegetables:18, Amla:40|Healthy
+Ice_Cream Item 20|Cheese:49, Strawberry Extract:13, Flour:25, Fruits:46, Pistachio:34|Unhealthy
+Ice_Cream Item 21|Rice:16, Salt:31, Carrot:33, Vegetables:46, Spices:39|Healthy
+Ice_Cream Item 22|Butter:49, Strawberry Extract:38|Unhealthy
+Ice_Cream Item 23|Sugar:16, Amla:38, Fruits:48, Peanuts:28|Healthy
+Ice_Cream Item 24|Hazelnuts:38, Cheese:31|Healthy
+Ice_Cream Item 25|Hazelnuts:12, Strawberry Extract:37|Unhealthy
+Ice_Cream Item 26|Strawberry Extract:24, Vanilla Essence:18, Hazelnuts:26, Fruits:35|Unhealthy
+Ice_Cream Item 27|Oil:42, Tomato Sauce:28, Vanilla Essence:34, Chicken:45|Healthy
+Ice_Cream Item 28|Pistachio:23, Wheat:10, Carrot:36, Milk:26, Butter:42|Healthy
+Ice_Cream Item 29|Fruits:22, Vanilla Essence:27, Flour:17|Healthy
+Ice_Cream Item 30|Hazelnuts:34, Fish:10|Unhealthy
+Ice_Cream Item 31|Cheese:43, Chicken:28|Unhealthy
+Ice_Cream Item 32|Peanuts:35, Fish:31, Flour:37, Cocoa:31, Vegetables:43|Healthy
+Ice_Cream Item 33|Garlic:44, Vegetables:47, Flour:27, Oil:16, Salt:23|Unhealthy
+Ice_Cream Item 34|Fruits:46, Milk:41, Cocoa:16, Rice:15|Unhealthy
+Ice_Cream Item 35|Oil:20, Fruits:34, Chicken:31, Strawberry Extract:33|Unhealthy
+Ice_Cream Item 36|Chicken:10, Fruits:18, Vanilla Essence:24, Hazelnuts:49, Fish:10|Healthy
+Ice_Cream Item 37|Vanilla Essence:11, Rice:26, Chicken:11, Sugar:43|Unhealthy
+Ice_Cream Item 38|Garlic:30, Carrot:36, Chicken:22, Fruits:42|Unhealthy
+Ice_Cream Item 39|Vegetables:31, Peanuts:16, Garlic:48, Chicken:17, Wheat:49|Healthy
+Ice_Cream Item 40|Cocoa:14, Vanilla Essence:26, Strawberry Extract:11, Cheese:18|Healthy
+Ice_Cream Item 41|Sugar:30, Vegetables:10|Healthy
+Ice_Cream Item 42|Butter:36, Vanilla Essence:44, Garlic:19, Cheese:31|Unhealthy
+Ice_Cream Item 43|Pistachio:10, Oil:49|Healthy
+Ice_Cream Item 44|Cocoa:46, Carrot:11|Healthy
+Ice_Cream Item 45|Fish:14, Milk:46, Carrot:15, Amla:19|Healthy
+Ice_Cream Item 46|Peanuts:49, Garlic:40|Unhealthy
+Ice_Cream Item 47|Amla:41, Cocoa:23, Garlic:46, Butter:34|Healthy
+Ice_Cream Item 48|Milk:26, Strawberry Extract:48, Fruits:44, Pistachio:47, Chicken:21|Healthy
+Ice_Cream Item 49|Spices:22, Fish:32, Milk:10, Garlic:47|Unhealthy
+Ice_Cream Item 50|Fruits:15, Vegetables:47, Milk:24|Healthy
+Ice_Cream Item 51|Salt:13, Wheat:49, Garlic:34, Fish:42|Healthy
+Ice_Cream Item 52|Milk:33, Flour:15, Rice:24, Tomato Sauce:12|Unhealthy
+Ice_Cream Item 53|Garlic:25, Wheat:10, Tomato Sauce:10|Unhealthy
+Ice_Cream Item 54|Tomato Sauce:17, Salt:44, Fish:11, Flour:45|Unhealthy
+Ice_Cream Item 55|Wheat:46, Fruits:48, Peanuts:14, Garlic:13, Hazelnuts:36|Healthy
+Ice_Cream Item 56|Cheese:11, Oil:29|Healthy
+Ice_Cream Item 57|Peanuts:34, Vegetables:18, Pistachio:13|Unhealthy
+Ice_Cream Item 58|Sugar:28, Vanilla Essence:10|Unhealthy
+Ice_Cream Item 59|Flour:25, Cheese:11, Amla:46, Cocoa:35|Unhealthy
+Ice_Cream Item 60|Chicken:15, Peanuts:21|Unhealthy
+Ice_Cream Item 61|Garlic:38, Spices:32|Unhealthy
+Ice_Cream Item 62|Strawberry Extract:31, Carrot:30, Amla:48|Healthy
+Ice_Cream Item 63|Chicken:20, Pistachio:17, Wheat:11, Cheese:21|Unhealthy
+Ice_Cream Item 64|Salt:48, Rice:36, Carrot:35, Milk:47|Healthy
+Ice_Cream Item 65|Salt:24, Peanuts:12|Healthy
+Ice_Cream Item 66|Spices:23, Salt:41, Tomato Sauce:10|Unhealthy
+Ice_Cream Item 67|Strawberry Extract:30, Fish:43, Vanilla Essence:48|Unhealthy
+Ice_Cream Item 68|Carrot:36, Cheese:47, Flour:20, Chicken:29, Sugar:34|Healthy
+Ice_Cream Item 69|Strawberry Extract:28, Tomato Sauce:12|Healthy
+Ice_Cream Item 70|Fruits:50, Sugar:25, Butter:45, Strawberry Extract:43|Healthy
+Ice_Cream Item 71|Fruits:33, Butter:25, Fish:45, Vanilla Essence:20|Healthy
+Ice_Cream Item 72|Strawberry Extract:29, Milk:33, Cocoa:44, Vanilla Essence:17|Unhealthy
+Ice_Cream Item 73|Tomato Sauce:49, Rice:37, Strawberry Extract:44|Healthy
+Ice_Cream Item 74|Tomato Sauce:25, Rice:33, Milk:39, Oil:32, Peanuts:25|Healthy
+Ice_Cream Item 75|Peanuts:25, Pistachio:31, Amla:41, Milk:24|Healthy
+Ice_Cream Item 76|Oil:30, Tomato Sauce:12, Milk:17, Salt:50, Hazelnuts:11|Healthy
+Ice_Cream Item 77|Tomato Sauce:35, Sugar:11|Unhealthy
+Ice_Cream Item 78|Rice:23, Cheese:21, Peanuts:13, Fruits:41|Healthy
+Ice_Cream Item 79|Vanilla Essence:20, Garlic:26, Tomato Sauce:40|Unhealthy
+Ice_Cream Item 80|Cheese:41, Vanilla Essence:41, Flour:46|Healthy
+Ice_Cream Item 81|Rice:11, Carrot:47, Vegetables:38, Garlic:38, Butter:13|Healthy
+Ice_Cream Item 82|Butter:20, Strawberry Extract:25|Healthy
+Ice_Cream Item 83|Amla:36, Garlic:48, Cheese:28, Strawberry Extract:47, Fruits:50|Unhealthy
+Ice_Cream Item 84|Garlic:35, Amla:14, Pistachio:17, Chicken:31, Peanuts:40|Unhealthy
+Ice_Cream Item 85|Cheese:14, Rice:47, Strawberry Extract:34|Unhealthy
+Ice_Cream Item 86|Pistachio:17, Wheat:22, Fish:21, Spices:14|Unhealthy
+Ice_Cream Item 87|Garlic:22, Hazelnuts:12, Oil:31, Milk:45, Fruits:27|Healthy
+Ice_Cream Item 88|Peanuts:22, Rice:15, Vanilla Essence:43|Unhealthy
+Ice_Cream Item 89|Oil:18, Amla:15, Garlic:36, Milk:20|Unhealthy
+Ice_Cream Item 90|Rice:43, Vanilla Essence:30|Unhealthy
+Ice_Cream Item 91|Strawberry Extract:38, Fruits:50, Tomato Sauce:28, Pistachio:21|Unhealthy
+Ice_Cream Item 92|Tomato Sauce:14, Fish:17, Strawberry Extract:41, Butter:20, Pistachio:38|Unhealthy
+Ice_Cream Item 93|Sugar:12, Vanilla Essence:17, Milk:47|Healthy
+Ice_Cream Item 94|Hazelnuts:49, Sugar:41|Healthy
+Ice_Cream Item 95|Flour:19, Strawberry Extract:23, Oil:50, Garlic:10|Healthy
+Ice_Cream Item 96|Vegetables:22, Amla:29, Cocoa:25|Unhealthy
+Ice_Cream Item 97|Salt:49, Strawberry Extract:39, Fruits:15, Cheese:22|Unhealthy
+Ice_Cream Item 98|Vanilla Essence:19, Strawberry Extract:32, Cocoa:50, Cheese:32, Flour:40|Unhealthy
+Ice_Cream Item 99|Cheese:11, Sugar:48, Flour:21|Unhealthy
+Ice_Cream Item 100|Fish:13, Vanilla Essence:13, Strawberry Extract:36, Garlic:10|Healthy

@@ -1,0 +1,101 @@
+Meals
+Meal Item 1|Vanilla Essence:44, Strawberry Extract:46, Salt:33, Tomato Sauce:50|Healthy
+Meal Item 2|Cheese:14, Spices:47|Healthy
+Meal Item 3|Flour:20, Spices:47|Healthy
+Meal Item 4|Butter:12, Vanilla Essence:25, Pistachio:37, Carrot:26, Peanuts:21|Healthy
+Meal Item 5|Cheese:35, Pistachio:21, Flour:37, Carrot:39|Unhealthy
+Meal Item 6|Tomato Sauce:46, Vanilla Essence:21, Oil:12|Unhealthy
+Meal Item 7|Butter:25, Fish:13, Wheat:49|Unhealthy
+Meal Item 8|Spices:46, Butter:48, Fish:40, Salt:30|Healthy
+Meal Item 9|Cocoa:13, Amla:34, Rice:21, Carrot:26, Wheat:27|Unhealthy
+Meal Item 10|Salt:35, Cocoa:50, Tomato Sauce:50|Healthy
+Meal Item 11|Flour:49, Vegetables:21, Rice:25, Oil:15, Milk:29|Healthy
+Meal Item 12|Chicken:16, Milk:39, Garlic:47, Hazelnuts:30|Healthy
+Meal Item 13|Oil:38, Pistachio:37, Vanilla Essence:12|Unhealthy
+Meal Item 14|Pistachio:37, Peanuts:30, Flour:45|Unhealthy
+Meal Item 15|Vegetables:31, Milk:48, Spices:37, Fish:45|Unhealthy
+Meal Item 16|Carrot:28, Butter:46|Unhealthy
+Meal Item 17|Carrot:19, Cheese:30|Unhealthy
+Meal Item 18|Oil:10, Chicken:32, Spices:12, Amla:32, Butter:41|Unhealthy
+Meal Item 19|Wheat:42, Vanilla Essence:18, Salt:11|Healthy
+Meal Item 20|Carrot:41, Vegetables:27, Garlic:26, Milk:14, Fish:21|Unhealthy
+Meal Item 21|Flour:16, Fruits:45, Milk:12|Healthy
+Meal Item 22|Wheat:41, Chicken:23, Butter:44, Salt:34|Unhealthy
+Meal Item 23|Hazelnuts:34, Vegetables:22, Milk:44, Butter:27|Unhealthy
+Meal Item 24|Flour:25, Wheat:32, Milk:30, Chicken:15, Rice:18|Unhealthy
+Meal Item 25|Pistachio:10, Chicken:39, Amla:43, Tomato Sauce:27|Healthy
+Meal Item 26|Flour:18, Cheese:41|Unhealthy
+Meal Item 27|Wheat:24, Flour:12, Cocoa:28, Sugar:43, Spices:31|Healthy
+Meal Item 28|Carrot:31, Tomato Sauce:49, Hazelnuts:29|Unhealthy
+Meal Item 29|Fruits:14, Sugar:27, Cocoa:16|Healthy
+Meal Item 30|Strawberry Extract:13, Chicken:20, Sugar:42|Unhealthy
+Meal Item 31|Oil:42, Tomato Sauce:37, Peanuts:17, Strawberry Extract:16|Healthy
+Meal Item 32|Strawberry Extract:26, Amla:35, Rice:35, Vegetables:20|Unhealthy
+Meal Item 33|Fish:12, Cocoa:42, Vanilla Essence:18, Amla:46|Healthy
+Meal Item 34|Sugar:48, Strawberry Extract:19, Tomato Sauce:41, Flour:12, Vegetables:43|Healthy
+Meal Item 35|Peanuts:32, Pistachio:43, Sugar:32|Healthy
+Meal Item 36|Cocoa:37, Vanilla Essence:44, Carrot:44|Healthy
+Meal Item 37|Cocoa:46, Amla:28, Tomato Sauce:21, Wheat:43|Healthy
+Meal Item 38|Sugar:17, Chicken:20|Unhealthy
+Meal Item 39|Pistachio:47, Amla:50, Butter:17, Strawberry Extract:36|Healthy
+Meal Item 40|Vanilla Essence:35, Rice:22, Chicken:45, Sugar:30, Cheese:43|Healthy
+Meal Item 41|Tomato Sauce:35, Sugar:27, Flour:14, Vanilla Essence:17|Unhealthy
+Meal Item 42|Milk:32, Chicken:35|Healthy
+Meal Item 43|Pistachio:42, Wheat:20|Unhealthy
+Meal Item 44|Peanuts:16, Chicken:27, Carrot:34, Rice:31, Wheat:36|Healthy
+Meal Item 45|Fish:18, Tomato Sauce:43, Fruits:42, Chicken:43, Sugar:29|Unhealthy
+Meal Item 46|Amla:44, Vanilla Essence:45, Oil:41|Healthy
+Meal Item 47|Sugar:14, Tomato Sauce:39|Unhealthy
+Meal Item 48|Spices:31, Chicken:16|Unhealthy
+Meal Item 49|Oil:13, Peanuts:50, Cheese:49, Vanilla Essence:44|Unhealthy
+Meal Item 50|Flour:32, Cheese:10, Sugar:41, Chicken:48|Healthy
+Meal Item 51|Hazelnuts:49, Oil:26, Fish:29|Unhealthy
+Meal Item 52|Chicken:36, Salt:45|Healthy
+Meal Item 53|Cocoa:49, Amla:34, Chicken:26, Carrot:41|Healthy
+Meal Item 54|Spices:21, Rice:39|Unhealthy
+Meal Item 55|Garlic:50, Fruits:26, Wheat:47, Milk:32|Unhealthy
+Meal Item 56|Cocoa:25, Peanuts:20, Butter:30, Pistachio:21|Healthy
+Meal Item 57|Flour:12, Tomato Sauce:17, Fruits:25|Healthy
+Meal Item 58|Wheat:28, Sugar:43, Fish:14, Cocoa:29, Carrot:46|Unhealthy
+Meal Item 59|Vanilla Essence:46, Oil:41, Fish:42|Unhealthy
+Meal Item 60|Butter:40, Fish:38, Spices:47, Vegetables:16, Salt:43|Unhealthy
+Meal Item 61|Fish:50, Butter:10, Salt:42, Hazelnuts:49, Garlic:29|Unhealthy
+Meal Item 62|Flour:43, Sugar:48, Hazelnuts:12, Amla:14|Healthy
+Meal Item 63|Spices:33, Hazelnuts:33, Tomato Sauce:12, Oil:13, Amla:40|Unhealthy
+Meal Item 64|Vegetables:42, Vanilla Essence:32, Amla:40|Healthy
+Meal Item 65|Cocoa:23, Salt:10, Cheese:14, Spices:15|Unhealthy
+Meal Item 66|Strawberry Extract:36, Flour:38, Vanilla Essence:31, Wheat:25|Unhealthy
+Meal Item 67|Chicken:37, Fruits:32, Pistachio:28|Healthy
+Meal Item 68|Carrot:35, Spices:36, Milk:28, Fruits:45, Cheese:12|Unhealthy
+Meal Item 69|Fish:20, Butter:47, Amla:25, Carrot:27|Healthy
+Meal Item 70|Flour:17, Fruits:31, Butter:21, Milk:19|Healthy
+Meal Item 71|Wheat:13, Tomato Sauce:40, Milk:22, Pistachio:25|Healthy
+Meal Item 72|Vegetables:24, Rice:32, Wheat:17|Unhealthy
+Meal Item 73|Milk:50, Vanilla Essence:42|Unhealthy
+Meal Item 74|Chicken:44, Pistachio:49, Cocoa:35|Unhealthy
+Meal Item 75|Rice:25, Wheat:16, Vegetables:29, Amla:49, Spices:45|Unhealthy
+Meal Item 76|Milk:30, Vegetables:17, Fish:17|Healthy
+Meal Item 77|Chicken:21, Vanilla Essence:45, Cheese:12, Fish:32|Unhealthy
+Meal Item 78|Fish:17, Garlic:40, Cheese:12|Unhealthy
+Meal Item 79|Fish:10, Oil:44, Strawberry Extract:50, Peanuts:38|Unhealthy
+Meal Item 80|Strawberry Extract:26, Peanuts:36, Salt:37, Butter:36|Healthy
+Meal Item 81|Amla:25, Cocoa:24, Tomato Sauce:47, Pistachio:45, Strawberry Extract:17|Unhealthy
+Meal Item 82|Amla:42, Spices:14, Oil:11, Strawberry Extract:17, Garlic:27|Healthy
+Meal Item 83|Sugar:13, Oil:44, Butter:18|Healthy
+Meal Item 84|Carrot:15, Oil:39|Unhealthy
+Meal Item 85|Milk:30, Salt:29, Chicken:45, Butter:22|Healthy
+Meal Item 86|Sugar:27, Fruits:12|Unhealthy
+Meal Item 87|Flour:42, Strawberry Extract:11, Fruits:13, Fish:42, Chicken:37|Healthy
+Meal Item 88|Cheese:41, Cocoa:49, Strawberry Extract:46, Rice:20|Unhealthy
+Meal Item 89|Cheese:44, Vanilla Essence:27, Hazelnuts:32, Spices:22, Peanuts:27|Healthy
+Meal Item 90|Amla:10, Fruits:21, Sugar:41, Wheat:27, Milk:31|Healthy
+Meal Item 91|Oil:36, Salt:30, Spices:26, Vegetables:20|Healthy
+Meal Item 92|Fish:41, Peanuts:48, Fruits:11, Butter:21, Salt:20|Healthy
+Meal Item 93|Amla:48, Wheat:39|Healthy
+Meal Item 94|Chicken:10, Peanuts:45, Flour:34, Strawberry Extract:12|Healthy
+Meal Item 95|Peanuts:15, Cheese:42, Amla:40|Unhealthy
+Meal Item 96|Vanilla Essence:10, Butter:35, Amla:41, Fruits:25|Healthy
+Meal Item 97|Hazelnuts:33, Oil:35, Butter:39|Unhealthy
+Meal Item 98|Flour:10, Sugar:12, Rice:43, Peanuts:49, Milk:20|Unhealthy
+Meal Item 99|Rice:18, Tomato Sauce:11, Spices:36, Salt:26|Healthy
+Meal Item 100|Cocoa:18, Wheat:40, Fish:20, Garlic:38, Oil:43|Healthy

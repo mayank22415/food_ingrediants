@@ -1,0 +1,101 @@
+Chocolates
+Chocolate Item 1|Sugar:50, Fish:18, Amla:36, Wheat:38, Flour:18|Unhealthy
+Chocolate Item 2|Pistachio:43, Oil:10, Salt:17, Cocoa:39|Unhealthy
+Chocolate Item 3|Pistachio:38, Carrot:12|Healthy
+Chocolate Item 4|Pistachio:18, Vanilla Essence:49, Salt:14, Sugar:26|Unhealthy
+Chocolate Item 5|Cheese:14, Rice:18, Flour:13, Amla:44, Pistachio:11|Healthy
+Chocolate Item 6|Carrot:14, Butter:28, Milk:11|Healthy
+Chocolate Item 7|Peanuts:48, Oil:33, Salt:23|Healthy
+Chocolate Item 8|Vegetables:33, Chicken:37, Cheese:19, Sugar:36|Healthy
+Chocolate Item 9|Sugar:41, Vegetables:44, Amla:11|Healthy
+Chocolate Item 10|Garlic:21, Cocoa:12, Chicken:12|Healthy
+Chocolate Item 11|Salt:15, Wheat:37, Sugar:45, Fish:34, Amla:36|Healthy
+Chocolate Item 12|Fish:22, Hazelnuts:22, Garlic:27|Healthy
+Chocolate Item 13|Peanuts:46, Hazelnuts:18|Healthy
+Chocolate Item 14|Fish:19, Amla:15, Cocoa:31, Sugar:18, Hazelnuts:36|Unhealthy
+Chocolate Item 15|Chicken:19, Fish:14, Vanilla Essence:33, Butter:28|Healthy
+Chocolate Item 16|Oil:36, Hazelnuts:47, Vanilla Essence:43|Unhealthy
+Chocolate Item 17|Strawberry Extract:28, Pistachio:22, Cheese:29|Unhealthy
+Chocolate Item 18|Fruits:33, Rice:39|Healthy
+Chocolate Item 19|Fruits:23, Peanuts:31|Healthy
+Chocolate Item 20|Fruits:11, Sugar:28|Unhealthy
+Chocolate Item 21|Garlic:10, Oil:25, Wheat:26, Milk:12|Unhealthy
+Chocolate Item 22|Cocoa:31, Garlic:17, Wheat:47, Salt:24|Healthy
+Chocolate Item 23|Flour:26, Vegetables:44, Pistachio:17, Hazelnuts:27|Healthy
+Chocolate Item 24|Flour:26, Peanuts:22, Chicken:33|Healthy
+Chocolate Item 25|Spices:50, Garlic:20, Sugar:19|Healthy
+Chocolate Item 26|Vegetables:20, Milk:23, Hazelnuts:10, Fish:13|Unhealthy
+Chocolate Item 27|Fish:18, Peanuts:17, Oil:37|Healthy
+Chocolate Item 28|Butter:35, Carrot:14, Hazelnuts:44|Healthy
+Chocolate Item 29|Fish:48, Vegetables:36, Sugar:16|Healthy
+Chocolate Item 30|Spices:13, Garlic:26|Healthy
+Chocolate Item 31|Strawberry Extract:47, Rice:14, Tomato Sauce:48|Healthy
+Chocolate Item 32|Vegetables:48, Garlic:23, Butter:35, Sugar:23|Healthy
+Chocolate Item 33|Carrot:12, Strawberry Extract:25, Wheat:24, Vanilla Essence:21|Healthy
+Chocolate Item 34|Fruits:32, Hazelnuts:11, Wheat:38|Healthy
+Chocolate Item 35|Rice:36, Garlic:31, Butter:41, Wheat:47, Cocoa:33|Healthy
+Chocolate Item 36|Milk:22, Strawberry Extract:24, Chicken:18, Rice:21, Wheat:35|Healthy
+Chocolate Item 37|Pistachio:49, Garlic:50, Fish:37|Healthy
+Chocolate Item 38|Garlic:20, Peanuts:14, Flour:32|Healthy
+Chocolate Item 39|Carrot:10, Cheese:15, Cocoa:19, Spices:33, Hazelnuts:11|Unhealthy
+Chocolate Item 40|Flour:31, Strawberry Extract:26|Healthy
+Chocolate Item 41|Amla:25, Strawberry Extract:34|Healthy
+Chocolate Item 42|Chicken:15, Pistachio:27|Unhealthy
+Chocolate Item 43|Vanilla Essence:18, Chicken:50, Cocoa:16, Milk:13, Wheat:39|Healthy
+Chocolate Item 44|Fruits:31, Cheese:42, Sugar:47|Healthy
+Chocolate Item 45|Salt:35, Amla:40|Unhealthy
+Chocolate Item 46|Tomato Sauce:39, Peanuts:18|Unhealthy
+Chocolate Item 47|Salt:29, Sugar:34, Hazelnuts:21, Strawberry Extract:34, Pistachio:49|Unhealthy
+Chocolate Item 48|Fruits:20, Cocoa:33|Healthy
+Chocolate Item 49|Carrot:38, Oil:21, Fruits:46, Amla:13|Healthy
+Chocolate Item 50|Cheese:31, Peanuts:47, Rice:15, Salt:15|Unhealthy
+Chocolate Item 51|Sugar:13, Salt:30, Butter:50|Unhealthy
+Chocolate Item 52|Vegetables:24, Cheese:50|Unhealthy
+Chocolate Item 53|Oil:24, Salt:30, Fruits:48|Healthy
+Chocolate Item 54|Oil:10, Amla:37|Unhealthy
+Chocolate Item 55|Fish:18, Amla:13, Cheese:45, Fruits:47, Oil:26|Healthy
+Chocolate Item 56|Vanilla Essence:41, Cocoa:11|Healthy
+Chocolate Item 57|Amla:26, Sugar:42, Hazelnuts:27, Salt:12, Fruits:15|Unhealthy
+Chocolate Item 58|Butter:32, Carrot:50|Unhealthy
+Chocolate Item 59|Tomato Sauce:49, Sugar:43, Butter:39, Vegetables:28, Carrot:45|Healthy
+Chocolate Item 60|Rice:19, Flour:33, Spices:11|Unhealthy
+Chocolate Item 61|Salt:44, Vanilla Essence:42, Fruits:13, Garlic:45|Healthy
+Chocolate Item 62|Vegetables:48, Amla:12, Chicken:13, Rice:44, Wheat:48|Healthy
+Chocolate Item 63|Rice:37, Fish:15, Strawberry Extract:25|Unhealthy
+Chocolate Item 64|Strawberry Extract:47, Chicken:19, Vanilla Essence:34|Unhealthy
+Chocolate Item 65|Pistachio:22, Vanilla Essence:43, Flour:34|Unhealthy
+Chocolate Item 66|Flour:10, Wheat:13, Sugar:21|Unhealthy
+Chocolate Item 67|Fish:33, Amla:10, Butter:42, Wheat:22|Unhealthy
+Chocolate Item 68|Carrot:38, Garlic:13, Oil:18|Healthy
+Chocolate Item 69|Fish:49, Pistachio:20, Fruits:45|Healthy
+Chocolate Item 70|Fruits:24, Cocoa:26, Carrot:35, Strawberry Extract:22|Unhealthy
+Chocolate Item 71|Wheat:27, Milk:29, Flour:38, Cocoa:33|Unhealthy
+Chocolate Item 72|Cocoa:33, Carrot:21, Fish:34, Butter:16|Unhealthy
+Chocolate Item 73|Vanilla Essence:46, Amla:19, Wheat:24, Tomato Sauce:21|Healthy
+Chocolate Item 74|Vegetables:28, Butter:36, Hazelnuts:37, Amla:26, Flour:29|Healthy
+Chocolate Item 75|Peanuts:46, Tomato Sauce:39, Chicken:14, Vegetables:41, Fish:21|Healthy
+Chocolate Item 76|Garlic:23, Sugar:18, Spices:11, Chicken:42, Carrot:40|Healthy
+Chocolate Item 77|Peanuts:30, Vegetables:43|Healthy
+Chocolate Item 78|Fish:10, Flour:22, Chicken:26|Healthy
+Chocolate Item 79|Amla:29, Fruits:45|Unhealthy
+Chocolate Item 80|Rice:40, Milk:18, Vegetables:34|Healthy
+Chocolate Item 81|Carrot:19, Butter:50, Salt:25|Healthy
+Chocolate Item 82|Milk:35, Butter:48, Cocoa:48|Unhealthy
+Chocolate Item 83|Butter:46, Fruits:43, Strawberry Extract:11|Healthy
+Chocolate Item 84|Wheat:25, Pistachio:18, Chicken:13, Flour:37|Healthy
+Chocolate Item 85|Cheese:18, Fruits:15, Peanuts:28, Carrot:14, Hazelnuts:27|Healthy
+Chocolate Item 86|Amla:45, Peanuts:36, Salt:40, Garlic:38, Cocoa:42|Unhealthy
+Chocolate Item 87|Milk:44, Tomato Sauce:22|Unhealthy
+Chocolate Item 88|Wheat:37, Spices:24, Flour:18|Healthy
+Chocolate Item 89|Oil:30, Flour:31, Fruits:25, Sugar:37, Peanuts:45|Healthy
+Chocolate Item 90|Flour:15, Carrot:12, Butter:10, Spices:45, Rice:25|Unhealthy
+Chocolate Item 91|Vanilla Essence:37, Butter:22, Salt:32, Pistachio:20, Peanuts:28|Healthy
+Chocolate Item 92|Garlic:10, Flour:37|Unhealthy
+Chocolate Item 93|Amla:10, Garlic:21, Rice:48, Fish:22, Sugar:33|Unhealthy
+Chocolate Item 94|Oil:38, Spices:31, Vegetables:49|Unhealthy
+Chocolate Item 95|Sugar:30, Strawberry Extract:50, Flour:25, Fish:23, Vegetables:16|Unhealthy
+Chocolate Item 96|Fish:17, Vegetables:11|Healthy
+Chocolate Item 97|Flour:38, Chicken:44, Garlic:19, Hazelnuts:44, Tomato Sauce:25|Healthy
+Chocolate Item 98|Sugar:47, Tomato Sauce:38|Healthy
+Chocolate Item 99|Rice:18, Tomato Sauce:26, Butter:27, Salt:24|Healthy
+Chocolate Item 100|Cheese:25, Sugar:30, Fish:49|Healthy

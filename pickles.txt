@@ -1,0 +1,101 @@
+Pickles
+Pickle Item 1|Cheese:23, Flour:21, Fruits:37, Vanilla Essence:41, Cocoa:30|Healthy
+Pickle Item 2|Tomato Sauce:45, Spices:33, Carrot:18|Healthy
+Pickle Item 3|Vegetables:34, Flour:15|Healthy
+Pickle Item 4|Pistachio:40, Carrot:38|Healthy
+Pickle Item 5|Strawberry Extract:47, Garlic:27|Healthy
+Pickle Item 6|Garlic:40, Spices:25|Healthy
+Pickle Item 7|Garlic:25, Hazelnuts:38, Sugar:21, Carrot:43, Vanilla Essence:26|Healthy
+Pickle Item 8|Chicken:27, Fruits:15, Amla:12|Unhealthy
+Pickle Item 9|Salt:35, Strawberry Extract:34, Oil:41|Healthy
+Pickle Item 10|Garlic:49, Amla:27, Spices:46, Rice:13, Strawberry Extract:37|Unhealthy
+Pickle Item 11|Carrot:34, Cocoa:47|Unhealthy
+Pickle Item 12|Garlic:24, Flour:44, Peanuts:49, Pistachio:15, Amla:48|Unhealthy
+Pickle Item 13|Butter:50, Garlic:33, Strawberry Extract:36, Tomato Sauce:23|Healthy
+Pickle Item 14|Milk:40, Pistachio:47, Oil:28|Healthy
+Pickle Item 15|Butter:47, Vanilla Essence:41, Hazelnuts:31|Healthy
+Pickle Item 16|Butter:26, Oil:17, Sugar:17, Cheese:15, Wheat:10|Healthy
+Pickle Item 17|Spices:17, Fruits:20, Wheat:49|Healthy
+Pickle Item 18|Pistachio:11, Strawberry Extract:29, Sugar:49|Healthy
+Pickle Item 19|Spices:42, Amla:33, Pistachio:48, Wheat:38, Cocoa:43|Unhealthy
+Pickle Item 20|Strawberry Extract:25, Cocoa:37, Garlic:36|Unhealthy
+Pickle Item 21|Sugar:35, Carrot:35, Vanilla Essence:13|Unhealthy
+Pickle Item 22|Spices:17, Salt:44|Unhealthy
+Pickle Item 23|Cocoa:16, Cheese:14, Wheat:22, Amla:23|Healthy
+Pickle Item 24|Pistachio:44, Fruits:21|Unhealthy
+Pickle Item 25|Oil:37, Flour:18, Garlic:50, Vegetables:49|Healthy
+Pickle Item 26|Cheese:43, Milk:27|Healthy
+Pickle Item 27|Fruits:34, Cocoa:36, Oil:33, Fish:41|Healthy
+Pickle Item 28|Spices:37, Milk:20|Healthy
+Pickle Item 29|Spices:35, Vegetables:11, Garlic:10, Pistachio:45, Hazelnuts:49|Unhealthy
+Pickle Item 30|Garlic:29, Carrot:10, Tomato Sauce:47, Hazelnuts:26|Healthy
+Pickle Item 31|Cheese:43, Sugar:18, Garlic:32, Cocoa:21|Healthy
+Pickle Item 32|Milk:39, Rice:43|Healthy
+Pickle Item 33|Wheat:15, Cheese:21, Amla:17, Vanilla Essence:46|Unhealthy
+Pickle Item 34|Butter:20, Carrot:34|Healthy
+Pickle Item 35|Carrot:29, Chicken:20, Vanilla Essence:28, Tomato Sauce:37, Strawberry Extract:26|Healthy
+Pickle Item 36|Peanuts:36, Hazelnuts:38, Cheese:31|Unhealthy
+Pickle Item 37|Butter:41, Flour:29, Garlic:30, Tomato Sauce:44|Unhealthy
+Pickle Item 38|Cheese:45, Oil:12|Healthy
+Pickle Item 39|Vanilla Essence:21, Carrot:28, Amla:46|Healthy
+Pickle Item 40|Oil:43, Chicken:42, Vegetables:44|Healthy
+Pickle Item 41|Cocoa:47, Tomato Sauce:14, Milk:36|Healthy
+Pickle Item 42|Carrot:23, Tomato Sauce:14, Strawberry Extract:32|Unhealthy
+Pickle Item 43|Rice:29, Oil:48, Amla:48, Tomato Sauce:43, Fruits:23|Unhealthy
+Pickle Item 44|Carrot:49, Amla:19, Rice:49|Healthy
+Pickle Item 45|Vanilla Essence:48, Oil:10, Salt:26, Flour:36, Fruits:10|Healthy
+Pickle Item 46|Milk:38, Rice:25, Strawberry Extract:37, Cheese:27, Cocoa:40|Healthy
+Pickle Item 47|Carrot:22, Sugar:33, Cheese:20, Hazelnuts:28|Unhealthy
+Pickle Item 48|Pistachio:26, Rice:23, Hazelnuts:41|Healthy
+Pickle Item 49|Amla:11, Flour:41, Oil:18, Strawberry Extract:35, Vanilla Essence:13|Unhealthy
+Pickle Item 50|Sugar:49, Butter:43, Cocoa:30, Cheese:46, Carrot:14|Healthy
+Pickle Item 51|Vegetables:23, Wheat:12, Amla:43, Tomato Sauce:27|Healthy
+Pickle Item 52|Oil:19, Strawberry Extract:48|Healthy
+Pickle Item 53|Spices:18, Hazelnuts:45, Fish:50, Garlic:25|Healthy
+Pickle Item 54|Cheese:21, Pistachio:39, Sugar:41|Healthy
+Pickle Item 55|Sugar:12, Cheese:31, Fruits:14, Pistachio:25, Oil:14|Unhealthy
+Pickle Item 56|Hazelnuts:16, Cheese:13, Milk:40|Healthy
+Pickle Item 57|Salt:36, Cheese:48, Amla:14, Cocoa:29, Peanuts:11|Healthy
+Pickle Item 58|Cheese:37, Oil:35, Cocoa:43, Amla:46, Garlic:17|Healthy
+Pickle Item 59|Pistachio:50, Oil:18, Peanuts:44, Vegetables:30|Healthy
+Pickle Item 60|Vanilla Essence:18, Cocoa:14, Salt:22, Fish:39|Unhealthy
+Pickle Item 61|Amla:15, Tomato Sauce:33, Butter:12, Salt:27|Unhealthy
+Pickle Item 62|Peanuts:23, Hazelnuts:33, Salt:11, Fish:43, Spices:16|Healthy
+Pickle Item 63|Cheese:16, Oil:39, Chicken:48, Garlic:28, Vegetables:21|Healthy
+Pickle Item 64|Wheat:35, Milk:10, Chicken:44, Vegetables:11|Healthy
+Pickle Item 65|Fruits:12, Spices:37|Unhealthy
+Pickle Item 66|Rice:17, Garlic:45, Carrot:21, Cheese:28|Unhealthy
+Pickle Item 67|Tomato Sauce:37, Hazelnuts:26, Flour:11, Rice:13, Butter:16|Healthy
+Pickle Item 68|Butter:31, Fruits:11, Spices:32, Chicken:32, Cocoa:29|Unhealthy
+Pickle Item 69|Peanuts:22, Vanilla Essence:26, Cocoa:49, Vegetables:37|Healthy
+Pickle Item 70|Amla:30, Pistachio:20, Chicken:31|Healthy
+Pickle Item 71|Wheat:48, Garlic:14, Vanilla Essence:31, Milk:34, Peanuts:19|Unhealthy
+Pickle Item 72|Carrot:10, Cheese:10|Healthy
+Pickle Item 73|Amla:17, Tomato Sauce:35|Healthy
+Pickle Item 74|Milk:21, Salt:43, Oil:30, Butter:19, Wheat:25|Unhealthy
+Pickle Item 75|Tomato Sauce:18, Carrot:39, Fruits:12, Pistachio:44|Unhealthy
+Pickle Item 76|Oil:11, Cocoa:29, Carrot:44, Cheese:30|Unhealthy
+Pickle Item 77|Carrot:47, Peanuts:18, Hazelnuts:21, Spices:47|Unhealthy
+Pickle Item 78|Cheese:24, Hazelnuts:24, Flour:28, Strawberry Extract:39|Unhealthy
+Pickle Item 79|Fruits:28, Rice:42, Flour:20, Carrot:28, Wheat:18|Unhealthy
+Pickle Item 80|Hazelnuts:21, Wheat:38, Oil:21, Amla:17|Unhealthy
+Pickle Item 81|Chicken:50, Butter:43, Vanilla Essence:34, Milk:48|Healthy
+Pickle Item 82|Fruits:43, Rice:32, Cocoa:36, Cheese:28|Unhealthy
+Pickle Item 83|Oil:27, Vanilla Essence:14, Milk:41, Amla:29, Cocoa:16|Unhealthy
+Pickle Item 84|Butter:17, Carrot:21, Tomato Sauce:14, Milk:31, Vegetables:10|Healthy
+Pickle Item 85|Carrot:38, Flour:24|Unhealthy
+Pickle Item 86|Vegetables:13, Spices:44, Amla:50, Fruits:30|Healthy
+Pickle Item 87|Amla:35, Spices:26, Strawberry Extract:11, Garlic:32|Healthy
+Pickle Item 88|Garlic:31, Sugar:25, Peanuts:21|Healthy
+Pickle Item 89|Peanuts:47, Tomato Sauce:39, Salt:39, Fish:40, Sugar:47|Healthy
+Pickle Item 90|Milk:44, Hazelnuts:46, Sugar:23, Spices:30|Healthy
+Pickle Item 91|Vegetables:29, Chicken:22, Hazelnuts:27, Butter:25, Cheese:42|Unhealthy
+Pickle Item 92|Rice:17, Pistachio:21, Sugar:16, Strawberry Extract:29|Unhealthy
+Pickle Item 93|Fish:19, Butter:22, Chicken:28|Healthy
+Pickle Item 94|Rice:31, Strawberry Extract:36, Peanuts:17|Healthy
+Pickle Item 95|Vegetables:41, Amla:35, Fruits:16|Unhealthy
+Pickle Item 96|Wheat:23, Tomato Sauce:16, Salt:48, Spices:27|Healthy
+Pickle Item 97|Carrot:24, Wheat:34, Amla:36, Fruits:40|Unhealthy
+Pickle Item 98|Rice:10, Butter:35|Healthy
+Pickle Item 99|Vanilla Essence:34, Milk:16|Unhealthy
+Pickle Item 100|Peanuts:13, Strawberry Extract:25, Cocoa:23, Vanilla Essence:17, Oil:24|Healthy
