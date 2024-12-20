@@ -1,34 +1,88 @@
-# food_ingredients
-Food Ingredients Checker
-The Food Ingredients Checker is a C++ project designed to provide detailed information about various food items based on categories. Users can select a food category, choose a specific food item, and view its ingredients, along with the percentage composition and health status.
+Food Ingredients Checker:-
 
-Key Features
-Categorized Food Items: Includes categories like snacks, chocolates, meals, pickles, and ice creams.
-Ingredient Details: Displays the ingredients of each food item with their respective percentages.
-Health Assessment: Indicates whether the selected food item is healthy or unhealthy.
-File-Based Data Storage: Food item details are stored in external files, making the system scalable and easy to update.
+A C++ OOP Project
+This project, Food Ingredients Checker, is designed to provide users with detailed insights into the ingredients of various food items. Built with C++ and leveraging Object-Oriented Programming (OOP) concepts and file handling, it is a practical application for learning and demonstrating the power of C++ programming in a real-world scenario.
+
+The application organizes food items into categories, such as Snacks, Chocolates, Meals, Pickles, and Ice Creams, and allows users to explore their ingredients and assess whether the food is healthy or not.
+
+Features of the Project
+
+1. Organized Food Categories
+The program categorizes food items into five main categories:
+Snacks
+Chocolates
+Meals
+Pickles
+Ice Creams
+Each category contains 100 food items with corresponding ingredients and health assessments.
+
+2. Ingredient Details
+Provides detailed ingredient lists with percentages for each food item.
+Highlights the health status of the food item (Healthy/Unhealthy) based on its composition.
+
+3. User Interaction
+The user can:
+Select a category by number.
+Choose a specific food item within that category.
+View details about the selected food item.
+
+4. File Handling for Data Storage
+Food data is stored in text files (snacks.txt, chocolates.txt, etc.), which are read by the program to display information dynamically.
+This design makes it easy to update or expand the dataset without modifying the core program.
+
+5. Object-Oriented Approach
+Classes Used:
+FoodItem: Represents a single food item with its name, ingredients, and health status.
+FoodCategory: Represents a category of food items and provides methods to manage and display items.
+
+6. Extensibility
+The project is designed to be easily extensible:
+New categories or food items can be added by updating the respective text files.
+Additional features, such as searching by ingredient or filtering by health status, can be implemented.
+Technologies and Concepts Used
+
+
+Programming Language
+C++
+
+Key Concepts
+Object-Oriented Programming (OOP)
+Classes and Objects
+Encapsulation and Abstraction
+Constructor Initialization
+Data Structures
+Vectors for dynamic data handling
+File Handling
+Reading data from text files
+Parsing and managing structured data
+Standard Template Library (STL)
+
 How It Works
-The program prompts the user to select a category from the available options.
-Users choose a food item by its name or company.
-The program reads data from the relevant file and displays detailed ingredient information and health status.
-Technologies Used
-Language: C++
-Concepts: Object-Oriented Programming (OOP), File Handling, Data Structures (Vectors)
-Development Tools: Standard C++ Libraries
-Why This Project?
-This project aims to promote awareness about the ingredients in commonly consumed food items, enabling users to make informed dietary choices. It is especially helpful for those concerned about health and nutrition.
 
-How to Run the Project
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/mayank22415/food_ingrediants.git
-Compile the main.cpp file using a C++ compiler:
-bash
-Copy code
-g++ main.cpp -o FoodChecker
-Run the executable:
-bash
-Copy code
-./FoodChecker
-Follow the on-screen instructions to explore the food items.
+Data Setup
+
+Food data is pre-stored in text files (e.g., snacks.txt, chocolates.txt).
+Each file contains the food name, ingredients (with percentages), and a health status.
+Program Flow
+
+
+The program starts by displaying the list of food categories.
+The user selects a category and then a specific food item.
+The program fetches and displays the ingredients and health status of the selected item.
+Example Interaction
+
+
+
+
+
+
+
+User selects Snacks.
+The program lists 100 snack options, such as "Lays" or "Doritos."
+The user selects "Lays," and the program displays:
+Food Name: Lays
+Ingredients:
+- Potato: 60%
+- Salt: 10%
+- Oil: 30%
+Health Status: Unhealthy
