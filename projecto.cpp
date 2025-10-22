@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// FoodItem class
+
 class FoodItem {
 private:
     string name;
-    vector<pair<string, float>> ingredients; // Ingredient name and percentage
+    vector<pair<string, float>> ingredients; 
     bool isHealthy;
 
 public:
